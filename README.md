@@ -1,6 +1,5 @@
 # nwb-less
 
-[![npm package][npm-badge]][npm]
 
 Plugin enabling a [Less](http://lesscss.org/) loading pipeline for `.less` files in [nwb](https://github.com/drylikov/NWB) using [less-loader](https://github.com/webpack-contrib/less-loader#readme).
 
